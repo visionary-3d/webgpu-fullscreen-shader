@@ -3,7 +3,7 @@
 This is some simple code for setting up uniforms and a fullscreen quad shader in webgpu. (check warnings down below before using this)
 
 ## https://youtu.be/YinfynTz77s
-[![WebGPU Introduction](https://user-images.githubusercontent.com/64514807/235347853-9411d7d7-1508-42a7-82aa-232650b13ee7.png)](https://youtu.be/YinfynTz77s)
+![WebGPU Introduction](https://github.com/visionary-3d/webgpu-fullscreen-shader/assets/64514807/0dd1e5b4-e6d7-47e7-b5cd-5ee5ced356b6)
 
 
 ## WARNING:
